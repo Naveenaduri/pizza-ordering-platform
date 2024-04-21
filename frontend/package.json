@@ -1,5 +1,5 @@
 {
-  "name": "pizzeria",
+  "name": "pizza_ordering_platform",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
